@@ -204,12 +204,13 @@ a month-long heatwave covered more than half its people, and the first season-lo
 Anselm, 2026-11-05: the era of cheap externalities is ending, regions differ in what they have
 left, in their ecosystems, air, water, wealth, fairness and institutions, and all of that
 together is a total bottom line a person should be able to read at a glance, for every region,
-on a globe, and watch move. The run pages now carry that globe, at the top. Every country is drawn by its own outline
-three times, one ring per group of bands, human, nature and economy, each a pastel, wider and
-brighter the higher the group's health; a country fills with red by the worst of its pressures, never
-by its mean: the share of its people living past the heat thresholds that year, the weakest
-of its three groups under a floor, or a fall under its own start. A rich country with a heart
-attack is not averaged well. The nine bands are a click away, as a pole or a block. The bands are nine World Bank
+on a globe, and watch move. The run pages carry that picture at the top, as a flat map of the world. A
+globe with rings of colour per country was the first form and was replaced on 26 November 2026 because
+it could not be read. On the map every country starts grey and is coloured by how its score has changed
+since the run began: red for a loss, blue for a gain, stronger the larger the change, so no country
+begins the run red. Two other readings are a click away: the score itself, and the share of the
+country's people past the heat thresholds that year. A selector picks the total or one of the nine
+bands, and hovering a country lists all nine. The bands are nine World Bank
 indicators, each the latest value the Bank holds for the country: life expectancy, income per
 person, the Gini index, the governance estimate of voice and accountability, fine-particle air
 pollution, forest cover, protected land and sea, renewable fresh water per person, and CO₂ per
@@ -220,7 +221,7 @@ Canada and Brazil near seven tenths, the United States at six tenths with a low 
 and the lowest footprint band of all, Bangladesh and Nigeria near four tenths. Those are the
 record's numbers, ranked, with nothing of ours in them.
 
-What moves the glyphs after the run's first year is ours, and a placeholder: each January
+What moves the scores after the run's first year is ours, and a placeholder: each January
 the module reads the share of each country's people living in cells past the climate niche and
 past the 31 °C wet-bulb limit, the run's own stress, and takes part of the living, means and
 water bands in proportion; a wild card knocks one band for the world for some years by its
@@ -228,9 +229,8 @@ kind, a pandemic the living, a crash the means, a war the voice, an eruption the
 with emissions held, 49 countries have a tenth or more of their people past a threshold: the
 Gulf, the Sahel, the Caribbean islands. Bangladesh is not among them, which is a limit of the
 model and not a finding: its annual mean sits under the niche's 29 °C, and the reanalysis
-under the wet-bulb count reads humid heat mild. The rules are written in the module's parameters so they can be argued with. Drag the
-globe to turn it and hover a glyph for its bands; the mean score over countries is charted
-beside it. The knock-backs are small on this scale because the rules are mild and global; a
+under the wet-bulb count reads humid heat mild. The rules are written in the module's parameters so they can be argued with. Hover a
+country for its bands; the mean score over countries is charted beside the map. The knock-backs are small on this scale because the rules are mild and global; a
 reactor leak that takes one region's air and water for a decade is the kind of card that would
 show, and the deck does not hold it yet.
 
